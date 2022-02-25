@@ -1,4 +1,6 @@
+//variable of string type, top song on Spotify repeat
 var topSongInRepeat = "Eleven Eight";
+//variable of string type,  dessert for today
 var dessert = "Cinnamon Rolls";
 
 var waterADay = 7;
